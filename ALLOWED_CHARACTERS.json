@@ -1,3 +1,11 @@
 {
-	"allowed_characters":["Shloozy","Shluuzy","Shlaazy","Armeyl","Armeyles","Flyzzio","Flyzzia"]
+    "allowed_characters":[
+        "Shloozy",
+        "Shluuzy",
+        "Shlaazy",
+        "Armeyl",
+        "Armeyles",
+        "Flyzzio",
+        "Flyzzia"
+    ]
 }
